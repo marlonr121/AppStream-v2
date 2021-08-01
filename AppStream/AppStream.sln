@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStream", "AppStream\AppStream.csproj", "{4A992420-BFCE-4C3F-8DAB-B53CB5DBF078}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStream.Data", "AppStream.Data\AppStream.Data.csproj", "{528413E0-3AD8-4254-B25A-4E98C553DDE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStream.Service", "AppStream.Service\AppStream.Service.csproj", "{68E330CA-81A3-4FF1-96D5-CBABDBAA9524}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4A992420-BFCE-4C3F-8DAB-B53CB5DBF078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A992420-BFCE-4C3F-8DAB-B53CB5DBF078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A992420-BFCE-4C3F-8DAB-B53CB5DBF078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528413E0-3AD8-4254-B25A-4E98C553DDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528413E0-3AD8-4254-B25A-4E98C553DDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528413E0-3AD8-4254-B25A-4E98C553DDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528413E0-3AD8-4254-B25A-4E98C553DDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E330CA-81A3-4FF1-96D5-CBABDBAA9524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E330CA-81A3-4FF1-96D5-CBABDBAA9524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E330CA-81A3-4FF1-96D5-CBABDBAA9524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E330CA-81A3-4FF1-96D5-CBABDBAA9524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
